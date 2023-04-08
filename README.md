@@ -21,4 +21,4 @@ The project involves the following steps:
 ![frame11.jpg](frame11.jpg)
 ![frame191.jpg](frame191.jpg)
 ![frame82.jpg](frame82.jpg)
-The above two image are the output of this project
+The above images are the output of this project
