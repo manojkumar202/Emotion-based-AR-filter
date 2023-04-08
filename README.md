@@ -7,10 +7,17 @@ a Python library for rendering 3D graphics. The code is written in Python and ut
 various libraries such as Pyrender, Mediapipe, OpenCV, Trimesh, face alignment and
 NumPy.
 
+The project involves the following steps:
+• Recognizing Face emotion
+• Detecting facial key points in 2D and 3D
+• Detect Camera pose from those points
+• Load the 3D model and set up scene
+• Render 3D model using camera pose with alpha channel
+• Overlay the filter over the face based on the emotion
 
 ![img2.png](img2.png)
 ![img3.png](img3.png)
-The above two image are the 3d filters created using Blender software
+.........................The above two image are the 3d filters created using Blender software
 ![frame191.jpg](frame191.jpg)
 ![frame82.jpg](frame82.jpg)
 The above two image are the output of this project
