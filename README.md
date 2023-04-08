@@ -5,8 +5,8 @@ in recent years, and the demand for real-time applications has grown. In this re
 will discuss the emotions-based AR filter based on using the PyRender library, which is
 a Python library for rendering 3D graphics. The code is written in Python and utilizes
 various libraries such as Pyrender, Mediapipe, OpenCV, Trimesh, face alignment and
-NumPy.
-The face alignment model checkpoints need to be download using pip install face_alignment
+NumPy.The face alignment model checkpoints need to be download using pip install face_alignment.
+
 The project involves the following steps:
 * Recognizing Face emotion
 * Detecting facial key points in 2D and 3D
