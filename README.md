@@ -9,5 +9,5 @@ NumPy.
 
 
 
-![frame191.png](frame191.png)
-![frame82.png](frame82.png)
+![frame191.jpg](frame191.jpg)
+![frame82.jpg](frame82.jpg)
