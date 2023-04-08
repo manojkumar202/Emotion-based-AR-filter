@@ -8,13 +8,7 @@ various libraries such as Pyrender, Mediapipe, OpenCV, Trimesh, face alignment a
 NumPy.
 
 
-
-![frame191.jpg]{
-   width:150px;
-   height:100px;
-}
-(frame191.jpg)
-![frame82.jpg]{
-   width:150px;
-   height:100px;
-}(frame82.jpg)
+![Screenshot 2023-04-07 at 9.13.09 PM.png](Screenshot 2023-04-07 at 9.13.09 PM.png)
+![Screenshot 2023-04-07 at 9.13.42 PM.png](Screenshot 2023-04-07 at 9.13.42 PM.png)
+![frame191.jpg](frame191.jpg)
+![frame82.jpg](frame82.jpg)
