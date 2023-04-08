@@ -9,5 +9,12 @@ NumPy.
 
 
 
-![frame191.jpg](frame191.jpg)
-![frame82.jpg](frame82.jpg)
+![frame191.jpg]{
+   width:150px;
+   height:100px;
+}
+(frame191.jpg)
+![frame82.jpg]{
+   width:150px;
+   height:100px;
+}(frame82.jpg)
